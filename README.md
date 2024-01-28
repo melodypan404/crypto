@@ -1,2 +1,2 @@
 # crypto
-Crypto Project
+This is my backend crypto trading project. 
